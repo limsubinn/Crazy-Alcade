@@ -62,14 +62,13 @@
 
     - 방장은 악성 유저를 강퇴시킬 수 있다.
 - 게임 시작 (노말 모드, 아이템 모드 동일)
-    
+
+    ![image](https://github.com/limsubinn/Crazy-Alcade/assets/66028419/8710ca24-9680-4387-94f6-039c915a05fb)
+  
     ![image](https://github.com/limsubinn/Crazy-Alcade/assets/66028419/c0f81b8d-9bd6-4704-8885-d8a7569d533e)
 
     - 문제를 확인하고 풀 수 있다.
     - 코드 실행을 누르면 예제 채점 결과가 출력된다. 게임 결과에는 반영되지 않는다.
-    
-    ![image](https://github.com/limsubinn/Crazy-Alcade/assets/66028419/8710ca24-9680-4387-94f6-039c915a05fb)
-
     - 코드 제출을 누르면 실제 채점 결과가 출력된다. 게임 결과에 반영된다.
     
     ![image](https://github.com/limsubinn/Crazy-Alcade/assets/66028419/8489b9a4-39e1-4e2a-9779-27c08759efa5)
